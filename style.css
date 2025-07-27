@@ -1,11 +1,40 @@
-h1{
-    color: red;
+label{
+
+display:block;
+margin-bottom:6px;
+color: black;
+front-weight: bold;
+
 
 
 }
 
-p{
-  
-    font-style:italic;
+
+
+h2{
+
+ color: orange;
+
+
+}
+
+
+
+
+
+
+
+form{
+
+margin:400px;
+border:1px solid blue;
+margin-top:50px;
+margin-bottom:100px;
+margin-right:150px;
+margin-left:80px;
+backgroun-color:White;
+height:500px;
+width:60%
+background-color:White;
 
 }
